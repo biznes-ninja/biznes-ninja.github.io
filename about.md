@@ -1,15 +1,20 @@
 ---
-layout: page
-title: About
+layout: about
+title: Кто мы
 permalink: /about/
 ---
 
-Some information about you!
+Бизнес Ниндзя — это проект Николая Воробьёва  
+и команды [ПроРеальность](http://prorealnost.com)
 
-### More Information
+# Зачем всё это
 
-A place to include any other types of information that you'd like to include about yourself.
+Мы собираем [в блоге](/) ценную и работающую информацию о том, как просто взять и создать свой собственный бизнес. И [отвечаем на вопросы](/ask/) по бизнесу.
 
-### Contact me
+# Обучение
 
-[email@domain.com](mailto:email@domain.com)
+А ещё мы делаем [тренинги по бизнесу](/products/) и [бизнес-коучинг](/products/coaching/)
+
+### Связь
+
+[biznes@prorealnost.com](mailto:biznes@prorealnost.com)
