@@ -22,6 +22,8 @@ permalink: /products/
 
 [Подробности тут](/products/bs/)
 
+----
+
 ## [Быстрые деньги](/http://money.prorealnost.com/offer/trening-bistrie-dengi-sale)
 
 Онлайн-тренинг по быстрому заработку (1 месяц)
