@@ -2,6 +2,7 @@
 layout: about
 title: Кто мы
 permalink: /about/
+image: /images/ninja-large.jpg
 ---
 
 Бизнес Ниндзя — это проект Николая Воробьёва  

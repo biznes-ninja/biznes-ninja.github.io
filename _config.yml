@@ -7,9 +7,12 @@ name: Бизнес Ниндзя
 
 # Short bio or description (displayed in the header)
 description: Просто пошёл и заработал
+slogan: Просто пошёл и заработал
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/logo.jpg
+
+image: http://biznes.ninja/images/og-image.jpg
 
 #
 # Flags below are optional
