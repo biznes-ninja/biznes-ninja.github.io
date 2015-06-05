@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Кто мы
+title: О проекте
 permalink: /about/
 image: /images/ninja-large.jpg
 ---
