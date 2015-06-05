@@ -109,7 +109,7 @@ header {
 
 #heads-up {
   background-color: $navbar-inverse-bg;
-  
+
   color: $navbar-inverse-color;
   padding-bottom: 25px;
   text-align: center;
@@ -180,4 +180,9 @@ header {
 
 .section {
   padding: 100px 0;
+}
+
+.section.bg-primary {
+  color: #fff;
+  text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
