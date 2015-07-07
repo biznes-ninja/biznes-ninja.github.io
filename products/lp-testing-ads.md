@@ -98,7 +98,7 @@ author:
       <div class="col-sm-6 col-md-4">
         <h2>Нажми на кнопку:</h2>
 
-        <a class="btn btn-lg btn-primary" style="padding: 10px 20px;" href="http://prolubov.prorealnost.com/shot/70">
+        <a class="btn btn-lg btn-primary" style="padding: 10px 20px;" href="http://money.prorealnost.com/shot/166">
           <span style="font-size: 120%;"><b>Скачать курс</b></span>
           <br/>
           и сэкономить деньги
