@@ -1,21 +1,21 @@
 ---
 layout: landing
-title: Как грамотно протестировать платные рекламные площадки с минимальными затратами - аудиокурс
+title: Как грамотно протестировать платные рекламные площадки с минимальными затратами - инструкция
 permalink: /lp-testing-ads/
 header: 
-  title: "Аудиокурс «Как грамотно протестировать платные рекламные площадки с минимальными затратами»"
+  title: "Инструкция «Как грамотно протестировать платные рекламные площадки с минимальными затратами»"
   subtitle: "Как не слить рекламный бюджет при старте своего бизнеса"
   background: "/images/heads-up-bg.jpg"
   buttontitle: "Получить курс"
 pain:
   title: "Ты собираешься открыть своё дело, но..."
 features: 
-  title: "Что ты узнаешь из курса:"
+  title: "Что ты узнаешь из инструкции:"
   feature1: "Когда начинать вкладывать деньги в платную рекламу"
   feature2: "Какие платные способы выбрать в первую очередь"
   feature3: "Основные ошибки при размещении платной рекламы"
 author: 
-  title: "Автор курса"
+  title: "Автор инструкции"
   name: "Николай Воробьев"
   photo: "/images/nickvorobiov.jpg"
   text: |
@@ -74,7 +74,7 @@ author:
 
 
 {% include sections/features.html features=page.features bg="" %}
-{% include sections/author.html author=page.author title='Автор курса' bg="bg-clouds" %}
+{% include sections/author.html author=page.author title='Автор инструкции' bg="bg-clouds" %}
 
 <a id="pricing"></a>
 
@@ -90,8 +90,8 @@ author:
         <h2>Ты получишь:</h2>
 
         <ul>
-          <li>аудиофайл с записью курса</li>
-          <li>краткий конспект курса</li>
+          <li>аудиофайл с пояснениями</li>
+          <li>инструкцию в формате pdf</li>
           <li>бонусные аудиозаписи</li>
         </ul>
       </div>
@@ -99,7 +99,7 @@ author:
         <h2>Нажми на кнопку:</h2>
 
         <a class="btn btn-lg btn-primary" style="padding: 10px 20px;" href="http://money.prorealnost.com/shot/166">
-          <span style="font-size: 120%;"><b>Скачать курс</b></span>
+          <span style="font-size: 120%;"><b>Скачать инструкцию</b></span>
           <br/>
           и сэкономить деньги
         </a>
