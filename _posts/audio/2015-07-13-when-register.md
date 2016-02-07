@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Можно ли обойтись без регистрации ИП
+type: cast
+project: business
+date: 2015-07-13
+slug: when-register
 ---
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/214567205&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 ## Краткий конспект
 
